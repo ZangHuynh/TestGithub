@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+        
+    <product>
+                
+        <productID>1</productID>
+                
+        <name>Product A</name>
+                
+        <manufacture>Manufacturer X</manufacture>
+                
+        <description>Description of Product A</description>
+                
+        <supplier>
+                        
+            <name>Supplier 1</name>
+                        
+            <country>Country A</country>
+                        
+            <website>www.supplier1.com</website>
+                    
+        </supplier>
+        	
+        <price>200</price>
+            
+    </product>
+        
+    <product>
+                
+        <productID>2</productID>
+                
+        <name>Product B</name>
+                
+        <manufacture>Manufacturer Y</manufacture>
+                
+        <description>Description of Product B</description>
+                
+        <supplier>
+                        
+            <name>Supplier 2</name>
+                        
+            <country>Country B</country>
+                        
+            <website>www.supplier2.com</website>
+                    
+        </supplier>
+        	
+        <price>100</price>
+            
+    </product>
+    
+    <product>
+        <productID>3</productID>
+        <name>Milk</name>
+        <manufacture>None</manufacture>
+        <description>None</description>
+        <supplier>
+            <name>Giang</name>
+            <country>vietname</country>
+            <website>w3c.com</website>
+        </supplier>
+        <price>300.0</price>
+    </product>
+</products>
